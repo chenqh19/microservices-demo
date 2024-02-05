@@ -1,3 +1,12 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/microservices-demo/microservices-demo.github.io.git
+[submodule "services/payment"]
+	path = services/payment
+	url = https://github.com/chenqh19/sock-shop.payment.git
+[submodule "services/catalogue"]
+	path = services/catalogue
+	url = https://github.com/chenqh19/sock-shop.catalogue.git
+[submodule "services/user"]
+	path = services/user
+	url = https://github.com/chenqh19/sock-shop.user.git
